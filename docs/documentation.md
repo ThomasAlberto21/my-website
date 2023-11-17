@@ -2,46 +2,113 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+<!-- About Me Start -->
 
-## Getting Started
+## About Me
 
-Get started by **creating a new site**.
+Hello everyone my name is **Thomas Alberto** <br />
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+I am a student at Universitas Bina Sarana Informatika in Pontianak city who is interested in the field of Web Programming. I have expertise in using technology such as HTML, CSS, JavaScript, and using the Vue JS framework as well React JS to create an interesting and interactive user experience, and i have an understanding of UI / UX design. I am Always eager to keep learning and keeping up to date with the latest developments in the web technology industry.
 
-### What you'll need
+<!-- About Me End -->
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+<!-- Experience Start -->
 
-## Generate a new site
+## Experience
 
-Generate a new Docusaurus site using the **classic template**.
+### Web Developer
 
-The classic template will automatically be added to your project after you run the command:
+#### Freelancer | September 2023 - Now
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+- Build interesting , interactive and dynamic websites using React JS and tailwind CSS.
+- Created API using Node js , Express js , MySQL and Prisma ORM.
+- Create a website for topup using HTML, CSS and Bootstrap
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+### UI / UX Designer
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+#### Digipages | October 2022 - Now
 
-## Start your site
+- Create an innovative interface design and user experience that emphasizes aesthetics and functionality.
+- Develop interactive prototypes that provide a real picture of the app's user experience.
+- Contribute to startup growth through design that supports marketing and user retention.
 
-Run the development server:
+### Project-Based Virtual Intern : Frontend Developer Core Initiative Studio x Rakamin Academy
 
-```bash
-cd my-website
-npm run start
-```
+#### Core Initiative Studio | April 2023 - May 2023
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+- Learn and apply Docker concepts, Jest for testing, and Vue JS for frontend development.
+- Interact with mentors in a collaborative virtual learning environment at Rakamin
+  Academy.
+- Develop interactive user interfaces with Vue JS.
+- Doing code testing using Jest.
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+<!-- Experience End -->
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+<!-- Education Start -->
+
+## **Education**
+
+### D3 Information System
+
+#### Universitas Bina Sarana Informatika | August 2022 - Now
+
+    - IPK: 4.00
+
+### MIPA
+
+#### SMA NEGERI 1 PUTUSSIBAU | April 2019 - May 2022
+
+    - Nilai Akhir : 82,40
+
+<!-- Education End -->
+
+<!-- Skills Start -->
+
+## **Skills**
+
+<!-- Soft Skills Start -->
+
+### Soft Skills
+
+- **Teamwork**
+- **Problem Solving**
+- **Time Management**
+- **Creativity**
+<!-- Soft Skills End -->
+
+<!-- Hard Skills Start -->
+
+### Hard Skills
+
+- **Frontend**
+  - Html
+  - Css
+  - JavaScript
+  - Tailwind Css
+  - Bootstrap
+  - React JS
+  - Vue JS
+- **Backend**
+  - Node JS
+  - Express JS
+  - MySQL
+  - REST Api
+- **Design**
+  - Figma
+  - Canva
+  - UI Design
+- **Microsoft**
+  - Microsoft Excel
+  - Microsoft Word
+  - Microsoft PowerPoint
+
+<!-- Hard Skills End -->
+
+<!-- Skills End -->
+
+## **Contact Me**
+
+- **Phone :** +6285752461241
+- **Email :** thomasalberto456@gmail.com
