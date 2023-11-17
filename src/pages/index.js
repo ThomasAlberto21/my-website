@@ -15,13 +15,12 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className='hero__subtitle'>
-          This is my website for documenting my journey as a software
-          engineer.
+          This is my website for documenting my journey as a software engineer.
         </p>
         <div>
           <Link
             className='button button--secondary button--lg'
-            to='/docs/intro'
+            to='/docs/documentation'
           >
             See All My Documentation
           </Link>
