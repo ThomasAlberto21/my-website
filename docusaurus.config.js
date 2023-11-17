@@ -74,6 +74,7 @@ const config = {
         items: [
           {
             type: 'docSidebar',
+            sidebarId: 'tutorialSidebar',
             position: 'left',
             label: 'Documentation',
           },
@@ -88,15 +89,6 @@ const config = {
       footer: {
         style: 'light',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Documentation',
-                to: '/docs/documentation',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
@@ -117,6 +109,10 @@ const config = {
           {
             title: 'More',
             items: [
+              {
+                label: 'Documentation',
+                to: '/docs/documentation',
+              },
               {
                 label: 'Blog',
                 to: '/blog',
