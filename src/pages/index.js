@@ -15,8 +15,8 @@ function HomepageHeader() {
           {siteConfig.title}
         </Heading>
         <p className='hero__subtitle'>
-          This is my website for learning and documenting my journey as a
-          software engineer.
+          This is my website for documenting my journey as a software
+          engineer.
         </p>
         <div>
           <Link
