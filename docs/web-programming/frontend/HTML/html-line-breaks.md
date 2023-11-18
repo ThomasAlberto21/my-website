@@ -4,7 +4,7 @@ sidebar_position: 6
 
 # HTML Line Breaks
 
-HTML Line Breaks are used to separate text content into separate lines in a web page. With the `<br />` tag, this element allows writing text sequentially without creating a new paragraph, providing vertical spacing between lines without additional spaces. This makes it easy to layout text in HTML efficiently.
+HTML Line Breaks are used to separate text content into separate lines in a web page. With the `<br />` tag, this element allows writing text sequentially without creating a new paragraph, providing vertical spacing between lines without additional spaces.
 
 The following is an example of using line breaks elements in HTML :
 
