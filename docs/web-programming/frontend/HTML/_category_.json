@@ -2,7 +2,6 @@
   "label": "HTML",
   "position": 1,
   "link": {
-    "type": "generated-index",
-    "description": "This is documentation for HTML"
+    "type": "generated-index"
   }
 }
