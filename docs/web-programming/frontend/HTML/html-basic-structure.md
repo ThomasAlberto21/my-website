@@ -42,51 +42,29 @@ When you have finished typing the command html:5, click enter, an HTML structure
 
 ## **Explanation a Basic Structure HTML**
 
-```html
-<!DOCTYPE html>
-
+`<!DOCTYPE html>` <br />
 Defines the HTML document type used, in the case, HTML 5.
-```
 
-```html
-<html lang="en"></html>
+`<html lang="en"></html>` <br />
+Marks the starts of the HTML document and states the language used in the page, In the case, English ("en" is the language code for English).
 
-Marks the starts of the HTML document and states the language used in the page,
-In the case, English ("en" is the language code for English).
-```
-
-```html
-<head></head>
-
+`<head></head>` <br />
 The section contains information about the HTML document, such as meta tags,
 page titles, and links to external files such as CSS or JavaScript.
-```
 
-```html
-<meta charset="UTF-8" />
-
+`<meta charset="UTF-8" />` <br />
 Defines the character encoding used in the page (UTF-8 is a commonly used
 character format).
-```
 
-```html
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
+`<meta name="viewport" content="width=device-width, initial-scale=1.0" />` <br />
 Provides instructions to the browser on how to display a page on a web-based
 device. These instructions state that the page width follows the device width
 and initial zoom the page to level 1.0.
-```
 
-```html
-<title>Document</title>
-
+`<title>Document</title>` <br />
 Specifies the title of the web page to be displayed in the tab or browser window
 title.
-```
 
-```html
-<body></body>
-
+`<body></body>` <br />
 The section contains all the content that will be displayed on the web page,
 such as text, images, links, videos, and more.
-```
