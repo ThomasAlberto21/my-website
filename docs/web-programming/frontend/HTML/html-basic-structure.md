@@ -14,7 +14,7 @@ First, create an HTML file first in the text editor that you have. For the file 
 index.html
 ```
 
-![Docs Version Dropdown](../../../../static/img/html/html-basic-structure/1.html-basic-structure.png)
+![Docs Version Dropdown](./img/html-basic-structure/1.html-basic-structure.png)
 
 ## **Create a Basic Structure HTML**
 
@@ -24,7 +24,7 @@ Next, create an HTML file structure like the image below
 html:5
 ```
 
-![Docs Version Dropdown](../../../../static/img/html/html-basic-structure/2.html-basic-structure.png)
+![Docs Version Dropdown](./img/html-basic-structure/2.html-basic-structure.png)
 
 When you have finished typing the command html:5, click enter, an HTML structure will appear like the code below
 
