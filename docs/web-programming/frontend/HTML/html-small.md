@@ -6,7 +6,7 @@ sidebar_position: 11
 
 HTML small is used to display text with a size that is smaller than normal text. This tag is usually used to display additional text, such as copyright or information. HTML small uses the `<small>` tag.
 
-The following is an example of using small tag in HTML from :
+The following is an example of using small tag in HTML :
 
 ```html title="index.html"
 <p>This is normal text.</p>
