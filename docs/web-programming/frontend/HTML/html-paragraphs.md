@@ -6,7 +6,7 @@ sidebar_position: 4
 
 HTML paragraphs are a basic element in creating web pages. With the `<p>` tag, this element is used to display the main text or content in a structured paragraph. Its use allows clear separation and organization of text, making it easier for readers to understand the information.
 
-The following is an example of using paragraphs elements in HTML :
+The following is an example of using paragraphs tag in HTML :
 
 ```html title="index.html"
 <p>
@@ -21,6 +21,6 @@ The following is an example of using paragraphs elements in HTML :
 </p>
 ```
 
-The following are the results of using paragraphs in HTML when run in a web browser
+The following are the results of using paragraphs tag in HTML when run in a web browser
 
 ![Docs Version Dropdown](./img/html-paragraphs/html-paragraphs.png)
