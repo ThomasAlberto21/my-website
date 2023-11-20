@@ -4,7 +4,7 @@ sidebar_position: 14
 
 # HTML Subscripted
 
-HTML Subscripted is used to display text subscriptly, that is, text written below the normal text baseline. Subscript text is usually used to write scientific notation, chemical formulas, or abbreviations. Subscripted HTML uses the `<sub>` tag.
+HTML Subscripted is used to display text subscriptly, that is, text written below the normal text baseline. Subscript text is usually used to write scientific notation, chemical formulas, or abbreviations. Subscripted HTML uses the tag `<sub>` .
 
 The following is an example of using subscripted tag in HTML from :
 
