@@ -6,7 +6,7 @@ sidebar_position: 9
 
 HTML bold and strong are two tags used to make text bold. Bold has a pure functions to make text bold, while strong has an additional function to emphasize important text. HTML bold uses the tag `<b>` while HTML strong uses the tag `<strong>`
 
-The following is an example of using tag bold and tag strong in HTML :
+The following is an example of using bold tag and strong tag in HTML :
 
 ```html title="index.html"
 <b>This is text bold</b>
