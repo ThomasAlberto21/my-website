@@ -6,7 +6,7 @@ sidebar_position: 10
 
 HTML `<i>` (italic) and `<em>` (emphasized) are used to create italic text. However the tag `<i>` only functions to make the text italic, while the `<em>` tag has an additional function, namely to emphasize the text.
 
-The following is an example of tag italic and tag emphasized in HTML :
+The following is an example of using italic tag and emphasize tag in HTML :
 
 ```html title="index.html"
 <i>This text is italic</i>
