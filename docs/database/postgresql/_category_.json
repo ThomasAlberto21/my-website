@@ -1,8 +1,8 @@
 {
-  "label": "Postgresql",
+  "label": "PostgreSQL",
   "position": 4,
   "link": {
     "type": "generated-index",
-    "description": "This is documentation for database Postgresql"
+    "description": "This is documentation for database PostgreSQL"
   }
 }
