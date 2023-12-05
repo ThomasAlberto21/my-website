@@ -90,9 +90,32 @@ you can type following command
 ```sql
 CREATE TABLE barang
 (
-    kode    INT             NOT NULL,
-    nama    VARCHAR(100)    NOT NULL,
-    harga   INT             NOT NULL DEFAULT 1000,
-    jumlah  INT             NOT NULL DEFAULT 0
+    kode            INT             NOT NULL,
+    nama            VARCHAR(100)    NOT NULL,
+    harga           INT             NOT NULL DEFAULT 1000,
+    jumlah          INT             NOT NULL DEFAULT 0,
+    waktu_dibuat    TIMESTAMP       NOT NULL DEFAULT CURRENT_TIMESTAMP
 );
+```
+
+## Truncate Table
+
+#### How to truncate table in terminal linux or DataGrip?
+
+you can type following command
+
+```sql
+-- Delete data in the table
+TRUNCATE TABLE barang;
+```
+
+## Drop Table
+
+#### How to drop table in terminal linux or DataGrip?
+
+you can type following command
+
+```sql
+-- Delete table
+DROP TABLE barang;
 ```
