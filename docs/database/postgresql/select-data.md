@@ -17,9 +17,4 @@ FROM products;
 -- Select data with column which you want
 SELECT id, name, price
 FROM products;
-
--- Select data with condition
-SELECT *
-FROM products
-WHERE price > 300;
 ```
