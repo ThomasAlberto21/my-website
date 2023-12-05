@@ -47,3 +47,36 @@ you can type following command in terminal
 ```bash
 \d name_table;
 ```
+
+## Alter Table
+
+#### How to alter table in terminal linux or DataGrip?
+
+you can type following command
+
+```sql
+-- Add Column
+ALTER TABLE barang ADD COLUMN deskripsi text;
+
+-- Delete Column
+ALTER TABLE barang DROP COLUMN deskripsi;
+
+-- Change Name Column
+ALTER TABLE barang RENAME COLUMN kode TO kode_barang;
+```
+
+## Null Value
+
+By default, when we create a column, the column can have a NULL value, if we don't want to receive a NULL value, we can add NOT NULL when creating the column
+
+you can type following command
+
+```sql
+CREATE TABLE barang
+(
+    kode    INT             NOT NULL,
+    nama    VARCHAR(100)    NOT NULL,
+    harga   INT             NOT NULL,
+    jumlah  INT             NOT NULL
+);
+```
