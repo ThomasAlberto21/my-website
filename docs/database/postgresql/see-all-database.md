@@ -2,7 +2,7 @@
 sidebar_position: 3
 ---
 
-# See All database PostgreSQL
+# See All Database PostgreSQL
 
 How to see list database PostgreSQL in linux terminal?
 
