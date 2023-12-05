@@ -9,5 +9,13 @@ How to use database PostgreSQL in terminal linux?
 you can type following command in terminal
 
 ```bash
-use database name_database;
+\c name_database;
+```
+
+How to use database PostgreSQL in DataGrip?
+
+you can type following command text
+
+```sql
+USE DATABASE nama_database;
 ```

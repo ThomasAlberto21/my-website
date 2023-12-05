@@ -8,6 +8,6 @@ How to delete database PostgreSQL in terminal linux?
 
 you can type following command in terminal
 
-```bash
-drop database name_database;
+```sql
+DROP DATABASE name_database;
 ```
