@@ -12,7 +12,7 @@ To display a list of existing databases along with additional information such a
 \l
 ```
 
-#### For only see database, you can type following command in terminal
+For only see database, you can type following command in terminal
 
 ```bash
 select datname from pg_database;
