@@ -6,7 +6,7 @@ sidebar_position: 11
 
 ## See Table
 
-#### How to see table in database PostgreSQL in terminal linux?
+#### How to see table in database PostgreSQL use terminal linux?
 
 you can type following command in terminal
 
@@ -14,7 +14,7 @@ you can type following command in terminal
 \dt
 ```
 
-#### How to see table in database PostgreSQL use DataGrip and terminal linux?
+#### How to see table in database PostgreSQL use terminal linux or DataGrip?
 
 you can type following command
 
@@ -42,7 +42,7 @@ CREATE TABLE barang
 
 ## See Structure Table
 
-#### How to see structure table in terminal linux?
+#### How to see structure table use terminal linux?
 
 you can type following command in terminal
 
@@ -52,7 +52,7 @@ you can type following command in terminal
 
 ## Alter Table
 
-#### How to alter table in terminal linux or DataGrip?
+#### How to alter table use terminal linux or DataGrip?
 
 you can type following command
 
@@ -106,7 +106,7 @@ CREATE TABLE barang
 
 ## Truncate Table
 
-#### How to truncate table in terminal linux or DataGrip?
+#### How to truncate table use terminal linux or DataGrip?
 
 you can type following command
 
@@ -117,7 +117,7 @@ TRUNCATE TABLE barang;
 
 ## Drop Table
 
-#### How to drop table in terminal linux or DataGrip?
+#### How to drop table use terminal linux or DataGrip?
 
 you can type following command
 
