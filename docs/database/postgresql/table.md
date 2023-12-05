@@ -26,7 +26,7 @@ WHERE schemaname = 'public';
 
 ## Create Table
 
-#### How to create table in terminal linux or DataGrip?
+#### How to create table use terminal linux or DataGrip?
 
 you can type following command
 
@@ -44,7 +44,7 @@ CREATE TABLE barang
 
 #### How to see structure table use terminal linux?
 
-you can type following command in terminal
+you can type following command
 
 ```bash
 \d name_table;
