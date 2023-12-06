@@ -4,7 +4,7 @@ sidebar_position: 15
 
 # Update Data
 
-How to update data table use PostgreSQL?
+#### How to update data table use PostgreSQL?
 
 you can type following command like this
 
