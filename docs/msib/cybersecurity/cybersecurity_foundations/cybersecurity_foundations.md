@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduction of Cyber Threats Taxonomy 
+# Introduction Of Cyber Threats Taxonomy 
 
 ## <font color="#3cad6e">Definisi Cyber Threat Taxonomy </font>
 `Cyber Threat Taxonomy` adalah sebuah sistem klasifikasi yang digunakan untuk mengkategorikan berbagai jenis ancaman siber. Sistem ini membantu para profesional keamanan siber untuk memahami dan menganalisis berbagai jenis ancaman, serta mengembangkan strategi yang efektif untuk menangkalnya.
