@@ -8,11 +8,17 @@ Kegiatan hari ini adalah kegiatan pembelajaran materi Cyber Security In The Worl
 
 ## <font color="#3cad6e">Top 10 CyberSecurity Threats In 2024 </font>
 
+- `Social Engineering`
+Dalam bidang keamanan cyber, Social Engineering merujuk pada praktik memanipulasi orang agar mengungkapkan informasi sensitif atau melakukan tindakan tertentu yang dapat membahayakan keamanan sistem atau data. Ini sering kali merupakan serangan non-teknis yang mengandalkan aspek-aspek psikologis dan sosial dari interaksi manusia.
+
 - `Third party Exposure` 
 Third party exposure dalam bidang keamanan cyber mengacu pada potensi risiko yang timbul ketika sebuah organisasi mengizinkan pihak ketiga untuk mengakses, mengelola, atau memproses data sensitif atau infrastruktur IT mereka. Ini terjadi ketika organisasi mempercayakan sebagian dari operasi atau layanan IT mereka kepada pihak ketiga, seperti vendor, kontraktor, atau mitra bisnis.
 
 - `Poor Cyber hygiene`
 Poor Cyber Hygiene adalah istilah yang digunakan dalam bidang keamanan cyber untuk menggambarkan praktik-praktik yang buruk atau tidak memadai dalam mengelola dan melindungi sistem, perangkat, dan data dari serangan cyber. Ini mencakup kebiasaan-kebiasaan seperti penggunaan kata sandi yang lemah, tidak memperbarui perangkat lunak secara teratur, mengabaikan tindakan keamanan dasar seperti enkripsi data, serta ketidakmampuan untuk mengidentifikasi atau merespons ancaman keamanan dengan cepat.
+
+- `Configuration Mistakes` 
+dalam bidang keamanan cyber merujuk pada kesalahan dalam mengatur atau mengkonfigurasi sistem, perangkat lunak, atau infrastruktur teknologi informasi yang dapat meningkatkan risiko keamanan. Ini dapat terjadi karena berbagai alasan, termasuk kurangnya pemahaman tentang praktik keamanan terbaik, kelalaian, atau kurangnya perhatian terhadap konfigurasi yang tepat.
 
 - `Cloud Vulnerabilities`
 Cloud Vulnerabilities merujuk pada kerentanan keamanan yang terjadi dalam lingkungan cloud computing. Ini mencakup berbagai potensi celah atau kelemahan dalam infrastruktur cloud yang dapat dieksploitasi oleh penyerang untuk memperoleh akses tidak sah, mencuri data sensitif, mengganggu layanan, atau melakukan serangan lainnya.
@@ -32,5 +38,3 @@ Poor data management dalam bidang keamanan cyber merujuk pada praktik-praktik ya
 - `Indequeate post attack procedures`
 Indequate post-attack procedures dalam bidang keamanan cyber merujuk pada prosedur yang tidak memadai atau tidak memadainya tindakan yang diambil setelah terjadi serangan atau insiden keamanan. Ini mengacu pada langkah-langkah yang diambil setelah serangan cyber telah terjadi untuk mengurangi dampaknya, memulihkan sistem, dan mencegah serangan serupa di masa depan.
 
-- `Social Engineering`
-Dalam bidang keamanan cyber, Social Engineering merujuk pada praktik memanipulasi orang agar mengungkapkan informasi sensitif atau melakukan tindakan tertentu yang dapat membahayakan keamanan sistem atau data. Ini sering kali merupakan serangan non-teknis yang mengandalkan aspek-aspek psikologis dan sosial dari interaksi manusia.
